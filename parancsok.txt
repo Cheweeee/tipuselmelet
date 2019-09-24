@@ -1,0 +1,7 @@
+C-x C-f find file
+C-x C-c close
+M-w copy
+C-w cut
+C-y paste
+C-c C-l típushelyesség
+C-c C-n beírt def tesztelése
