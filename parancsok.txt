@@ -5,3 +5,5 @@ C-w cut
 C-y paste
 C-c C-l típushelyesség
 C-c C-n beírt def tesztelése
+C-c C-, lyuk mit vár, mi kell majd legyen
+C-u C-x = char megadása
